@@ -81,7 +81,7 @@ class bp_group_import_users_class{
 			//call function to process csv
 			$this->process_csv();
 
-			echo '<div class="success message">'.__('Users Imported Successfully.','bp-giu').'</div>';
+			echo '<div class="success message">'.__('Users Imported Successfully. Reload the page to check.','bp-giu').'</div>';
 		}
 
 	}
