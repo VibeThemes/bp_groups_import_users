@@ -44,6 +44,11 @@ class bp_group_import_users_class{
 		$user_id = get_current_user_id();
 		$admins = bp_group_admin_ids();
 
+		$flag = 1;
+		$flag = apply_filters('bp_check_admins_and_upload_users',$flag,$admins);
+		if(!$flag)
+			return;
+
 		if(is_numeric($admins)){
 			$admins = array($admins);
 		}else{
