@@ -3,7 +3,7 @@
  * Initialise BP GROUPS IMPORT USERS
  *
  * @class       bp_group_import_users_class
- * @author      Vibethemes(H.K. Latiyan)
+ * @author      H.K.Latiyan (Vibethemes)
  * @category    Admin
  * @package     bp_group_import_users/includes
  * @version     1.0
