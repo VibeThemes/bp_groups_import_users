@@ -2,8 +2,8 @@
 Contributors: vibethemes
 Tags: bp, import, import bulk users, import users, bp groups import users
 Requires at least: 3.6
-Tested up to: 4.7.3
-Stable tag: 1.0
+Tested up to: 5.3.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
