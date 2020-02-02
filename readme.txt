@@ -1,11 +1,13 @@
 === BP GROUPS IMPORT USERS ===
 Contributors: vibethemes
 Tags: bp, import, import bulk users, import users, bp groups import users
+Requires PHP: 7.2
 Requires at least: 3.6
 Tested up to: 5.3.2
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
 
 BP GROUPS IMPORT USERS helps users to import bulk users into a buddypress group.
 
@@ -70,6 +72,10 @@ Report bugs, suggest ideas, and participate in development at <a href="https://v
 
 1. Add Bulk Members.
 2. CSV File.
+
+== ChangeLog ==
+= 1.1 =
+Sample File path fixed
 
 = 1.0 =
 Initialise 1.0
