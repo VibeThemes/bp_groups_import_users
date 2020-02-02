@@ -61,7 +61,7 @@ class bp_group_import_users_class{
 		//Form for bulk add users to group
 		?>
 		<div class="add_bulk_members_in_group">
-		<h3 class="heading"><span><?php _e('Add Bulk Members','bp-giu'); ?></span><a href="<?php echo plugins_url('assets/sample.csv', __FILE__); ?>"><?php _e('Download Sample CSV File','bp-giu'); ?></a></h3>
+		<h3 class="heading"><span><?php _e('Add Bulk Members','bp-giu'); ?></span><a href="<?php echo plugins_url('../assets/sample.csv', __FILE__); ?>"><?php _e('Download Sample CSV File','bp-giu'); ?></a></h3>
 
 		<form method="post" action="/">
 			<input type="file" name="users_csv" id="users_csv_file">

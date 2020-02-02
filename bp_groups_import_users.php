@@ -3,8 +3,8 @@
 Plugin Name: BP Groups Import Users
 Plugin URI: http://www.Vibethemes.com
 Description: A simple WordPress plugin to modify buddypress groups
-Version: 1.0
-Author: H.K.Latiyan (Vibethemes)
+Version: 1.1
+Author: Vibethemes
 Author URI: http://www.vibethemes.com
 Text Domain: bp-giu
 License: GPL2

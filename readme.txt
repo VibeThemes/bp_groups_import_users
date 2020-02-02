@@ -1,5 +1,5 @@
 === BP GROUPS IMPORT USERS ===
-Contributors: hklatiyan, vibethemes
+Contributors: vibethemes
 Tags: bp, import, import bulk users, import users, bp groups import users
 Requires at least: 3.6
 Tested up to: 4.7.3
@@ -12,7 +12,9 @@ BP GROUPS IMPORT USERS helps users to import bulk users into a buddypress group.
 == Description ==
 BP GROUPS IMPORT USERS plugin is a free plugin developed to help users to bulk import users into a buddypress group. If the user is not registered on the website then the user will get registered automatically and an activation email will be sent to them. The users will have to activate their account through the email to get reflected in the group members.
 
-Tutorial On how to setup and get started : <a href="https://vibethemes.com/documentation/wplms/knowledge-base/bulk-add-students-to-batch-via-csv/">link</a>
+Tutorial On how to setup and get started : <a href="https://wplms.io/support/knowledge-base/bulk-add-students-to-batch-via-csv/">link</a>
+
+Also checkout our Project WPLMS : <a href="https://wplms.io/">Learning Management system for WordPress</a>
 
 = More Information =
 
